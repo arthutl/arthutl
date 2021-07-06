@@ -12,18 +12,23 @@
    - 🎮 Interested in games and series
    - 💻 I try to live entirely in the terminal<br />
 
+<p align="left">
+   <a href="https://linkedin.com/in/arporto-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arporto-" height="16" width="20" /></a>
+   <a href="https://medium.com/@arporto-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arporto-" height="16" width="20" /></a>
+   <a href="https://discord.gg/fantzaja#2142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fantzaja#2142" height="16" width="20" /></a>
+</p>
 
 ---
 
 <br />
 
 <p align="center"><img src="https://badge42.herokuapp.com/api/stats/arporto-?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
+
 <br />
 
 ---
 
 <br />
-
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthutl&show_icons=true&theme=dracula) | [![Arthur's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthutl&layout=compact&hide_border=true&theme=dracula)](https://github.com/arthutl?tab=repositories) |
 |:-:|:-:|
