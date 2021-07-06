@@ -10,6 +10,7 @@
    - 🧙🏻‍♂️ I’m currently learning Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
    - 👨🏻‍💻 I’m currently learning Cybersecurity at [UNIFACS](https://www.unifacs.br/)
    - 🎮 Interested in games and series
+   - 💻 I try to live entirely in the terminal 
 
 ---
 
