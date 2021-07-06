@@ -15,7 +15,6 @@
 <p align="left">
    <a href="https://linkedin.com/in/arporto-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arporto-" height="16" width="20" /></a>
    <a href="https://medium.com/@arporto-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arporto-" height="16" width="20" /></a>
-   <a href="https://discord.gg/fantzaja#2142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fantzaja#2142" height="16" width="20" /></a>
 </p>
 
 ---
