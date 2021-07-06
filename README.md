@@ -25,5 +25,5 @@
 <br />
 
 
-[![42_basecamp](https://github-readme-stats.vercel.app/api/pin/?username=arthutl&repo=42SP_Basecamp&theme=material-palenight&hide_border=true)](https://github.com/arthutl/42SP_Basecamp) | [![Arthur's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthutl&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/arthutl?tab=repositories) |
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthutl&show_icons=true&theme=dracula) | [![Arthur's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthutl&layout=compact&hide_border=true&theme=dracula)](https://github.com/arthutl?tab=repositories) |
 |:-:|:-:|
