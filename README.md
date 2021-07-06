@@ -16,7 +16,7 @@
 
 <p align="center"><img src="https://badge42.herokuapp.com/api/stats/arporto-?cursus=Basecamp&privacyEmail=true&privacyName=true"> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthutl&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
-
+[![42_basecamp](https://github-readme-stats.vercel.app/api/pin/?username=arthutl&repo=42SP_Basecamp&theme=material-palenight&hide_border=true)](https://github.com/arthutl/42SP_Basecamp) | [![Arthur's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthutl&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/arthutl?tab=repositories) |
+|:-:|:-:|
