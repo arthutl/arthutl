@@ -17,7 +17,7 @@
 
 <br />
 
-<p align="center"><img src="https://badge42.herokuapp.com/api/stats/arporto-?cursus=Basecamp&privacyEmail=true&privacyName=true"> </p>
+<p align="center"><img src="https://badge42.herokuapp.com/api/stats/arporto-?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
 <br />
 
 ---
