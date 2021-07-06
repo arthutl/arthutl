@@ -1,4 +1,4 @@
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="150" width="250"></p>
+<p align="center"><img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Foriginal%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg" alt="Synthwave" height="300" width="500"></p>
 
 
 <h2> Hello world!</h2>
@@ -15,7 +15,7 @@
 
 <p align="center"><img src="https://badge42.herokuapp.com/api/stats/arporto-?cursus=Basecamp&privacyEmail=true&privacyName=true"> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthutl&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/arthurtl?tab=repositories"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthutl&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
 
