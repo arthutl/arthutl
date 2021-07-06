@@ -8,6 +8,6 @@
 
 [![Arthur's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthutl&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/arthutl?tab=repositories)
 
-<p align="center"><img src="![Arthutl Stats](https://github-readme-stats.vercel.app/api?username=arthutl&theme=dracula_icons=true)" /></p>
+"![Arthutl Stats](https://github-readme-stats.vercel.app/api?username=arthutl&theme=dracula_icons=true)"
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
