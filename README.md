@@ -7,3 +7,6 @@
 
 
 [![Arthur's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthutl&layout=compact&hide_border=true&theme=material-palenight)](https://github.com/arthutl?tab=repositories)
+
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
