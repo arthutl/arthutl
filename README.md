@@ -1,5 +1,5 @@
-<p align="center"><img src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Foriginal%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg" alt="Synthwave" height="300" width="500"></p>
-
+<p align="center"><img src="https://github.com/arthutl/testimg/blob/master/Captura%20de%20tela%202021-07-08%20002406.png" 
+                       
 <br />
 
 <h2> Hello world!</h2>
